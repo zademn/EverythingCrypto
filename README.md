@@ -6,6 +6,7 @@ You will find
 - Implementations in Python / Sage
 - Common libraries for solving the problems
 - Everything is full of resources (from Youtube videos with intuitive explanations to detailed papers on the subject)
+
 I HIGHLY recommend using nbviewer if you're reading these online: https://nbviewer.jupyter.org/github/zademn/EverythingCrypto/tree/master/  
 Github doesn't render the mathematics inside the notebooks
 
@@ -33,7 +34,7 @@ Directories are organized by categories
 
 Each directory will have a README.md that will contain the difficulty MY difficulty ranking of different subjects, attacks etc.
 
-## How to tackle this repository?
+# How to tackle this repository?
 Whatever fits your needs
 1. Follow along with a book
 2. Depth-first fashion (for people that have good foundations):
