@@ -6,6 +6,8 @@ You will find
 - Implementations in Python / Sage
 - Common libraries for solving the problems
 - Everything is full of resources (from Youtube videos with intuitive explanations to detailed papers on the subject)
+I HIGHLY recommend using nbviewer if you're reading these online: https://nbviewer.jupyter.org/github/zademn/EverythingCrypto/tree/master/  
+Github doesn't render the mathematics inside the notebooks
 
 # Structure?
 
