@@ -7,7 +7,8 @@ The order I studied them and I recommend them to be studied:
     - You will understand the basic ECDLP algorithms
 2. The Rational Points on Elliptic curves folder => From Silverman's Book
     - Going through these notebooks + reading the book should prepare your for intermediate attacks such as
-        - Attacks on anomalous
+        - Attacks on anomalous curves
         - Attacks on singular curves
-3. The rest of the notebooks
+3. Bilinear pairings
+    - MOV attack
     
