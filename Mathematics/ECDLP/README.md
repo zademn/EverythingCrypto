@@ -17,7 +17,7 @@ Each notebook has
 
 2. Easy (All of these are already implemented in sage)
     - **Baby step giant step**
-    - **Pohlig-Hellman on EC* = Order of the curve is smooth
+    - **Pohlig-Hellman on EC** = Order of the curve is smooth
     - **Pollard-rho** on EC*
 3. Intermediate:
     - **Smart attack**
