@@ -10,5 +10,5 @@ The order I studied them and I recommend them to be studied:
         - Attacks on anomalous curves
         - Attacks on singular curves
 3. Bilinear pairings
-    - MOV attack
+        - MOV attack
     
