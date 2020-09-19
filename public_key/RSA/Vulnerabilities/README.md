@@ -13,7 +13,7 @@ Each notebook has
 
 # The order to study them 
 
-1. Begginer
+1. Beginner
     - **Begginer mistakes**: easy exploitation of bad RSA parameters
 2. Easy
     - **Known (e, d) pair**: Decrypt any message if you know the pair (e,d)
