@@ -13,7 +13,7 @@ Each notebook has
 
 # The order to study them 
 
-1. Begginer
+1. Beginner
     - Bad groups
     - Man in the middle attacks
 2. Easy
