@@ -1,4 +1,3 @@
-For each book I'll have a repo
 
 # Books
 1. An introduction to mathematical cryptography - Second edition by Jeffrey Hoffstein, Jill Pipher and Joseph H. Silverman
