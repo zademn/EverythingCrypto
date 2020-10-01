@@ -1,5 +1,6 @@
 # Discrete Logarithm Problem
-The Discrete Logarithm Problem is important in cryptography because sometimes the cryptosystem is based on the difficulty of computing the discrete logarithm in some group of some order
+The Discrete Logarithm Problem is important in cryptography because sometimes the cryptosystem is based on the difficulty of computing the discrete logarithm in some group of some order.  
+Given an element g of high order and an element a = g^x mod N find x  
 Usually we try to abuse bad choices of groups
 
 Here is a collection of DLP algorithms and their applications

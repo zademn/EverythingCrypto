@@ -16,7 +16,7 @@ Each notebook has
 
 # The order to study them 
 
-1. Begginer
+1. Beginner
     - **Fermat's factorization**: When p and q are close
 2. Easy
     - **Lentsra's EC factorization**: use elliptic curve proprieties to factor some N

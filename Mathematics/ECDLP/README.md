@@ -1,5 +1,7 @@
 # Elliptic Curve Discrete Logarithm Problem
 The Elliptic Curve Discrete Logarithm Problem is important in cryptography because sometimes the cryptosystem is based on the difficulty of computing the elliptic curve discrete logarithm with points on some curves
+
+Given the points P,Q on an elliptic curve E with Q = nP -> find n  
 Usually we try to abuse bad choices of parameters of curves or different types of curves
 
 Here is a collection of ECDLP algorithms and their applications
@@ -17,7 +19,7 @@ Each notebook has
 
 2. Easy (All of these are already implemented in sage)
     - **Baby step giant step**
-    - **Pohlig-Hellman on EC* = Order of the curve is smooth
+    - **Pohlig-Hellman on EC** = Order of the curve is smooth
     - **Pollard-rho** on EC*
 3. Intermediate:
     - **Smart attack**
