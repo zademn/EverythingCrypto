@@ -23,15 +23,20 @@ Github doesn't render the mathematics inside the notebooks
 
 Directories are organized by categories
 - Mathematics = Here you will find the basic structures(groups, curves, etc) and algorithms that I studied
+    - Number theory
     - Discrete Logarithm Problem 
     - Elliptic curve Discrete Logarithm Problem 
     - Factorizations 
     - Elliptic Curves - Theory
     - Lattices
+    - Primality and primality tests
 - Public Key = Each cryptosystem will have an introduction and a folder with vulnerabilities (NOTE: mathematical vulnerabilities (Ex: factorizations, dlp) will not be covered to avoid monotony. I assume you can connect the points) 
-    - RSA
-    - Diffie Hellman
+    - RSA + vulnerabilities
+    - Diffie Hellman + vulnerabilities
 - Block Ciphers
+- Digital signatures
+    - ECDSA + vulnerabilities
+    - RSADSA + vulnerabilities
 
 Each directory will have a README.md that will contain the difficulty MY difficulty ranking of different subjects, attacks etc.
 
