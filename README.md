@@ -18,10 +18,17 @@ Github doesn't render the mathematics inside the notebooks
     - Theory = Mathematical explanation + intuitions
     - Code = Python,Sage or other library
     - Resources = List of resources for further reading
+ ## PDF's
+- Some basic theory in the form of pdf's here and there
     
 ## Directories
 
 Directories are organized by categories
+- Security theory 
+    - Basic definitions and what to expect (Start with this)
+- PRNG's
+    - Pseudorandom generators, pseudorandom functions, a chacha20 implementation
+    
 - Mathematics = Here you will find the basic structures(groups, curves, etc) and algorithms that I studied
     - Number theory
     - Discrete Logarithm Problem 
@@ -33,6 +40,7 @@ Directories are organized by categories
 - Public Key = Each cryptosystem will have an introduction and a folder with vulnerabilities (NOTE: mathematical vulnerabilities (Ex: factorizations, dlp) will not be covered to avoid monotony. I assume you can connect the points) 
     - RSA + vulnerabilities
     - Diffie Hellman + vulnerabilities
+    - Elgamal
 - Block Ciphers
 - Digital signatures
     - ECDSA + vulnerabilities
@@ -41,7 +49,7 @@ Directories are organized by categories
 Each directory will have a README.md that will contain the difficulty MY difficulty ranking of different subjects, attacks etc.
 
 # How to tackle this repository?
-Whatever fits your needs
+Whatever fits your needs (Start with the security theory folder though to know what to expect)
 1. Follow along with a book
 2. Depth-first fashion (for people that have good foundations):
     - Pick a bigger subject
