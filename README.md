@@ -27,7 +27,7 @@ Directories are organized by categories
 - Security theory 
     - Basic definitions and what to expect (Start with this)
 - PRNG's
-    - Pseudorandom generators, pseudorandom functions, a chacha20 implementation
+    - Pseudorandom generators, pseudorandom functions, a chacha20 implementation, LFSRs (+Geffe)
     
 - Mathematics = Here you will find the basic structures(groups, curves, etc) and algorithms that I studied
     - Number theory
