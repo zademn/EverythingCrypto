@@ -12,6 +12,11 @@ I **HIGHLY** recommend using nbviewer if you're reading these online: https://nb
 - Github doesn't render the all mathematics inside the notebooks
 - Github doesn't render images properly inside the notebooks 
 
+## Disclaimer
+- This whole repository is for educational purposes
+- DO NOT USE ANY OF THE ALGORITHMS IN REAL WORLD APPLICATIONS
+
+
 # Structure?
 
 ## Notebooks
@@ -72,4 +77,5 @@ Whatever fits your needs (Start with the security theory folder though to know w
 - [ ] Code for DES and Feistel ciphers
 - [ ] Lattice theory + LLL details and implementation
 - [ ] Lattice Cryptosystems
+- [ ] Homomorphic encryption
     
