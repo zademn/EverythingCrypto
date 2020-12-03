@@ -32,11 +32,11 @@ Directories are organized by categories
     - Pseudorandom generators, pseudorandom functions, a chacha20 implementation, LFSRs (+Geffe)
     
 - Mathematics = Here you will find the basic structures(groups, curves, etc) and algorithms that I studied
-    - Number theory
+    - Number theory - Start with this
+    - Elliptic Curves - Theory
     - Discrete Logarithm Problem 
     - Elliptic curve Discrete Logarithm Problem 
     - Factorizations 
-    - Elliptic Curves - Theory
     - Lattices
     - Primality and primality tests
 - Public Key = Each cryptosystem will have an introduction and a folder with vulnerabilities (NOTE: mathematical vulnerabilities (Ex: factorizations, dlp) will not be covered to avoid monotony. I assume you can connect the points) 
@@ -49,6 +49,8 @@ Directories are organized by categories
 - Digital signatures
     - ECDSA + vulnerabilities
     - RSADSA + vulnerabilities
+- Secret sharing schemes
+    - General Idea and SSSS
 
 Each directory will have a README.md that will contain the difficulty MY difficulty ranking of different subjects, attacks etc.
 
