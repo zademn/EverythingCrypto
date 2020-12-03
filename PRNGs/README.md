@@ -1,5 +1,7 @@
 
 # Random number generators
+(medium difficulty)
+
 Random number generators (RNGs) are essential to cryptography since many algorithms require random numbers
 - Block ciphers key / iv
 - Stream cipher keystream

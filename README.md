@@ -61,4 +61,13 @@ Whatever fits your needs (Start with the security theory folder though to know w
 3. Breadth-first fashion (for starters):
     - Go through every topic at the lowest difficulty
     - Raise the difficulty and start again
+
+
+# TODO 
+(As of 3 Dec 2020)
+- [ ] SIS, LWE
+- [ ] Hashes
+- [ ] Code for DES and Feistel ciphers
+- [ ] Lattice theory + LLL details and implementation
+- [ ] Lattice Cryptosystems
     
