@@ -22,7 +22,7 @@ Now, not all PRNGs are created equal
 
 ---
 
-# Order to read 
+# Suggested reading order
 1. PRG
 2. PRF_PRP
 3. Choose your PRNG

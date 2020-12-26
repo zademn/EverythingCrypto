@@ -1,4 +1,4 @@
-# Order to read 
+# Suggested reading order
 1. Overview
 2. Intro stuff
 3. Types of attacks

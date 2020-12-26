@@ -14,7 +14,7 @@ A digital signature scheme typically consists of three algorithms;
 2. A *signing algorithm* that, given a message and a private key, produces a **signature**.
 3. A *signature verifying algorithm* that, given the message, public key and signature, either **accepts** or **rejects** the message's claim to authenticity.
 
-Recommended study order
-- DSA signatures -> read online
-- RSA signatures
-- Elliptic curve DSA
+# Suggested reading order
+1. DSA signatures -> read online
+2. RSA signatures
+3. Elliptic curve DSA

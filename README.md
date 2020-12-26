@@ -34,17 +34,18 @@ Directories are organized by categories
 - Security theory 
     - Basic definitions and what to expect (Start with this)
 - PRNG's
-    - Pseudorandom generators, pseudorandom functions, a chacha20 implementation, LFSRs (+Geffe)
+    - Pseudorandom generators, pseudorandom functions, 
+    - Implementations: chacha20, LFSRs, Geffe (Correlation attack)
     
 - Mathematics = Here you will find the basic structures(groups, curves, etc) and algorithms that I studied
     - Number theory - Start with this
     - Elliptic Curves - Theory
     - Discrete Logarithm Problem 
-    - Elliptic curve Discrete Logarithm Problem 
+    - Elliptic Curve Discrete Logarithm Problem 
     - Factorizations 
     - Lattices
-    - Primality and primality tests
-- Public Key = Each cryptosystem will have an introduction and a folder with vulnerabilities (NOTE: mathematical vulnerabilities (Ex: factorizations, dlp) will not be covered to avoid monotony. I assume you can connect the points) 
+    - Primes and primality tests
+- Public Key = Each cryptosystem will have an introduction and a folder with vulnerabilities (NOTE: mathematical vulnerabilities (Ex: factorizations, dlp) will not be covered to avoid monotony. I assume you can connect the dots) 
     - RSA + vulnerabilities
     - Diffie Hellman + vulnerabilities
     - Elgamal
@@ -56,12 +57,18 @@ Directories are organized by categories
     - RSADSA + vulnerabilities
 - Secret sharing schemes
     - General Idea and SSSS
+- Message Integrity
+    - MACs and hashes theory - pdf
+    - Constructions - Merkle damgard and sponge
+    - Length Extension attack
+    - HMAC
+    
 
 Each directory will have a README.md that will contain the difficulty MY difficulty ranking of different subjects, attacks etc.
 
 # How to tackle this repository?
 Whatever fits your needs (Start with the security theory folder though to know what to expect)
-1. Follow along with a book
+1. Follow along with a book (There is a book directory)
 2. Depth-first fashion (for people that have good foundations):
     - Pick a bigger subject
     - Study it thoroughly (from the lowest difficulty to the highest)
@@ -70,12 +77,13 @@ Whatever fits your needs (Start with the security theory folder though to know w
     - Raise the difficulty and start again
 
 
-# TODO 
-(As of 3 Dec 2020)
+# TODO
+Not necessarily in this order   
+(As of 26 Dec 2020)
 - [ ] SIS, LWE
-- [ ] Hashes
+- [x] Hashes - 26 dec
 - [ ] Code for DES and Feistel ciphers
 - [ ] Lattice theory + LLL details and implementation
 - [ ] Lattice Cryptosystems
 - [ ] Homomorphic encryption
-    
+- [ ] Public key theory

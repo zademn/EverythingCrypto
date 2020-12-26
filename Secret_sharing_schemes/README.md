@@ -6,6 +6,6 @@ One of the problems that cryptogrpahy tries to solve is how to split a **secret*
 - There is no information revealed about the secret from it's shares independently
 - etc
 
-# Order to read
+# Suggested reading order
 1. Secret sharing schemes pdf
-2. Choose your scheme
+2. SSSS
