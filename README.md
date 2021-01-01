@@ -33,10 +33,10 @@ I **HIGHLY** recommend using nbviewer if you're reading these online: https://nb
 Directories are organized by categories
 - Security theory 
     - Basic definitions and what to expect (Start with this)
-- PRNG's
-    - Pseudorandom generators, pseudorandom functions, 
-    - Implementations: chacha20, LFSRs, Geffe (Correlation attack)
-    
+- Secret sharing schemes
+    - General Idea and SSSS
+
+
 - Mathematics = Here you will find the basic structures(groups, curves, etc) and algorithms that I studied
     - Number theory - Start with this
     - Elliptic Curves - Theory
@@ -45,25 +45,30 @@ Directories are organized by categories
     - Factorizations 
     - Lattices
     - Primes and primality tests
+
 - Public Key = Each cryptosystem will have an introduction and a folder with vulnerabilities (NOTE: mathematical vulnerabilities (Ex: factorizations, dlp) will not be covered to avoid monotony. I assume you can connect the dots) 
     - RSA + vulnerabilities
     - Diffie Hellman + vulnerabilities
     - Elgamal
-- Block Ciphers
-    - AES, DES
-    - Block ciphers modes of operation - pdf
 - Digital signatures
     - ECDSA + vulnerabilities
     - RSADSA + vulnerabilities
-- Secret sharing schemes
-    - General Idea and SSSS
+
+- PRNG's
+    - Pseudorandom generators, pseudorandom functions, 
+    - Implementations: chacha20, LFSRs, Geffe (Correlation attack)
+- Block Ciphers
+    - AES, DES
+    - Block ciphers modes of operation - pdf
 - Message Integrity
     - MACs and hashes theory - pdf
     - Constructions - Merkle damgard and sponge
     - Length Extension attack
     - HMAC
+- Authenticated Encryption
+    - AE and AEAD - pdf
+    - GCM and the the forbidden attack
     
-
 Each directory will have a README.md that will contain the difficulty MY difficulty ranking of different subjects, attacks etc.
 
 # How to tackle this repository?
@@ -75,7 +80,13 @@ Whatever fits your needs (Start with the security theory folder though to know w
 3. Breadth-first fashion (for starters):
     - Go through every topic at the lowest difficulty
     - Raise the difficulty and start again
-
+4. My Take
+- Security theory dir -> Symmetric / Public 
+- Symmetric encryption
+    - PRGNG -> Block ciphers -> Message Integrity -> Authenticated Encryption
+- Public Encryption
+    - Maths/Number Theory -> Public Key Encryption -> Digital Signatures
+    - Maths when needed
 
 # TODO
 Not necessarily in this order   
