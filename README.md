@@ -30,13 +30,11 @@ I **HIGHLY** recommend using nbviewer if you're reading these online: https://nb
     
 ## Directories
 
-Directories are organized by categories
+Directories are organized by categories (S = Symmetric, P = Public, E = Extra)
+
+### Extra 
 - Security theory 
     - Basic definitions and what to expect (Start with this)
-- Secret sharing schemes
-    - General Idea and SSSS
-
-
 - Mathematics = Here you will find the basic structures(groups, curves, etc) and algorithms that I studied
     - Number theory - Start with this
     - Elliptic Curves - Theory
@@ -45,7 +43,10 @@ Directories are organized by categories
     - Factorizations 
     - Lattices
     - Primes and primality tests
+- Secret sharing schemes
+    - General Idea and SSSS
 
+### Public
 - Public Key = Each cryptosystem will have an introduction and a folder with vulnerabilities (NOTE: mathematical vulnerabilities (Ex: factorizations, dlp) will not be covered to avoid monotony. I assume you can connect the dots) 
     - RSA + vulnerabilities
     - Diffie Hellman + vulnerabilities
@@ -54,6 +55,7 @@ Directories are organized by categories
     - ECDSA + vulnerabilities
     - RSADSA + vulnerabilities
 
+### Symmetric
 - PRNG's
     - Pseudorandom generators, pseudorandom functions, 
     - Implementations: chacha20, LFSRs, Geffe (Correlation attack)
@@ -90,9 +92,10 @@ Whatever fits your needs (Start with the security theory folder though to know w
 
 # TODO
 Not necessarily in this order   
-(As of 26 Dec 2020)
+(As of 1 jan 21)
 - [ ] SIS, LWE
-- [x] Hashes - 26 dec
+- [x] Hashes - 26 dec 20
+- [x] Authenticated Encryption - 1 jan 21
 - [ ] Code for DES and Feistel ciphers
 - [ ] Lattice theory + LLL details and implementation
 - [ ] Lattice Cryptosystems
