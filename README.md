@@ -92,7 +92,7 @@ Whatever fits your needs (Start with the security theory folder though to know w
 
 # TODO
 Not necessarily in this order   
-(As of 1 jan 21)
+(As of 6 jan 21)
 - [ ] SIS, LWE
 - [x] Hashes - 26 dec 20
 - [x] Authenticated Encryption - 1 jan 21
@@ -100,4 +100,4 @@ Not necessarily in this order
 - [ ] Lattice theory + LLL details and implementation
 - [ ] Lattice Cryptosystems
 - [ ] Homomorphic encryption
-- [ ] Public key theory
+- [x] Public key theory - 6 jan 21
