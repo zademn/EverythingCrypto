@@ -33,6 +33,8 @@ I **HIGHLY** recommend using nbviewer if you're reading these online: https://nb
 Directories are organized by categories (S = Symmetric, P = Public, E = Extra)
 
 ### Extra 
+- Books
+    - A collection of books I went through and found helpful
 - Security theory 
     - Basic definitions and what to expect (Start with this)
 - Mathematics = Here you will find the basic structures(groups, curves, etc) and algorithms that I studied
@@ -97,7 +99,9 @@ Not necessarily in this order
 - [x] Authenticated Encryption - 1 Jan 21
 - [ ] Code for DES and Feistel ciphers
 - [x] Lattice theory - 26 Jan 21
-- [ ] SIS, LWE
+- [x] SIS, LWE - 4 Feb 21
 - [ ] Lattice Cryptosystems
 - [ ] Homomorphic encryption
 - [x] Public key theory - 6 Jan 21
+- [ ] Zero knowledge proofs
+- [ ]  Protocols (might make another repo)
