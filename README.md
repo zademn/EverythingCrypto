@@ -39,6 +39,7 @@ Directories are organized by categories (S = Symmetric, P = Public, E = Extra)
     - Basic definitions and what to expect (Start with this)
 - Mathematics = Here you will find the basic structures(groups, curves, etc) and algorithms that I studied
     - Number theory - Start with this
+    - Abstract algebra - Groups, Rings, Fields, Polynomials
     - Elliptic Curves - Theory
     - Discrete Logarithm Problem 
     - Elliptic Curve Discrete Logarithm Problem 
@@ -104,4 +105,6 @@ Not necessarily in this order
 - [ ] Homomorphic encryption
 - [x] Public key theory - 6 Jan 21
 - [ ] Zero knowledge proofs
-- [ ]  Protocols (might make another repo)
+- [ ] Protocols (might make another repo)
+- [ ] Reductions
+- [ ] Add test vectors for algorithms
