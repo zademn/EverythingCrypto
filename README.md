@@ -3,7 +3,7 @@
 In this repository I collect my adventures in the Cryptography world.
 You will find
 - Medium-Highly Detailed explanations of algorithms
-- Implementations in Python / Sage
+- Implementations in Python / Sage (Every notebook is self contained)
 - Common libraries for solving the problems
 - Everything is full of resources (from Youtube videos with intuitive explanations to detailed papers on the subject)
 
@@ -11,6 +11,8 @@ You will find
 I **HIGHLY** recommend using nbviewer if you're reading these online: https://nbviewer.jupyter.org/github/zademn/EverythingCrypto/tree/master/  
 - Github doesn't render the all mathematics inside the notebooks
 - Github doesn't render images properly inside the notebooks 
+
+If **nbviewer** is down for some reason download them locally and run them on your machine and everything will render normally.
 
 ## Disclaimer
 - This whole repository is for educational purposes
@@ -101,7 +103,7 @@ Not necessarily in this order
 - [ ] Code for DES and Feistel ciphers
 - [x] Lattice theory - 26 Jan 21
 - [x] SIS, LWE - 4 Feb 21
-- [ ] Lattice Cryptosystems
+- [x] Lattice Cryptosystems
 - [ ] Homomorphic encryption
 - [x] Public key theory - 6 Jan 21
 - [ ] Zero knowledge proofs
