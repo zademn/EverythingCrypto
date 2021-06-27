@@ -1,14 +1,14 @@
 # Hello there!
 
 In this repository I collect my adventures in the Cryptography world.
-You will find
-- Medium-Highly Detailed explanations of algorithms
-- Implementations in Python / Sage (Every notebook is self contained)
+What to expect?
+- Medium-Highly detailed explanations of algorithms / concepts
+- Implementations in Python / Sage (Every notebook is self contained up to prerequisites which you'll still find here)
 - Common libraries for solving the problems
 - Everything is full of resources (from Youtube videos with intuitive explanations to detailed papers on the subject)
 
 # IMPORTANT NOTE
-I **HIGHLY** recommend using nbviewer if you're reading these online: https://nbviewer.jupyter.org/github/zademn/EverythingCrypto/tree/master/  
+I **HIGHLY** recommend using nbviewer if you're reading these online: https://nbviewer.jupyter.org/github/zademn/EverythingCrypto/tree/master/
 - Github doesn't render the all mathematics inside the notebooks
 - Github doesn't render images properly inside the notebooks 
 
@@ -17,7 +17,6 @@ If **nbviewer** is down for some reason download them locally and run them on yo
 ## Disclaimer
 - This whole repository is for educational purposes
 - DO NOT USE ANY OF THE ALGORITHMS IN REAL WORLD APPLICATIONS
-
 
 # Structure?
 
@@ -67,6 +66,7 @@ Directories are organized by categories (S = Symmetric, P = Public, E = Extra)
 - Block Ciphers
     - AES, DES
     - Block ciphers modes of operation - pdf
+    - Cryptanalysis methods
 - Message Integrity
     - MACs and hashes theory - pdf
     - Constructions - Merkle damgard and sponge
@@ -76,7 +76,7 @@ Directories are organized by categories (S = Symmetric, P = Public, E = Extra)
     - AE and AEAD - pdf
     - GCM and the the forbidden attack
     
-Each directory will have a README.md that will contain the difficulty MY difficulty ranking of different subjects, attacks etc.
+Each directory will have a README.md that will contain the MY difficulty ranking of different subjects, attacks etc.
 
 # How to tackle this repository?
 Whatever fits your needs (Start with the security theory folder though to know what to expect)
@@ -101,6 +101,8 @@ Not necessarily in this order
 - [x] Hashes - 26 Dec 20
 - [x] Authenticated Encryption - 1 Jan 21
 - [ ] Code for DES and Feistel ciphers
+- [x] Block cipher design + Linear cryptanalysis - 27 jun 21
+- [ ] Differential cryptanalysis
 - [x] Lattice theory - 26 Jan 21
 - [x] SIS, LWE - 4 Feb 21
 - [x] Lattice Cryptosystems
