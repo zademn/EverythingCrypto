@@ -102,7 +102,7 @@ Not necessarily in this order
 - [x] Authenticated Encryption - 1 Jan 21
 - [ ] Code for DES and Feistel ciphers
 - [x] Block cipher design + Linear cryptanalysis - 27 jun 21
-- [ ] Differential cryptanalysis
+- [x] Differential cryptanalysis - 29 jun 21
 - [x] Lattice theory - 26 Jan 21
 - [x] SIS, LWE - 4 Feb 21
 - [x] Lattice Cryptosystems
