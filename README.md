@@ -100,6 +100,7 @@ Not necessarily in this order
 (As of 26 jan 21)
 - [x] Hashes - 26 Dec 20
 - [x] Authenticated Encryption - 1 Jan 21
+- [x] RC4 and FMS
 - [ ] Code for DES and Feistel ciphers
 - [x] Block cipher design + Linear cryptanalysis - 27 jun 21
 - [x] Differential cryptanalysis - 29 jun 21

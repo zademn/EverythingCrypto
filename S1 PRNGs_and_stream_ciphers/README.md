@@ -22,7 +22,14 @@ Now, not all PRNGs are created equal
 
 ---
 
+# Stream ciphers
+A stream cipher is a symmetric key cipher where plaintext digits are combined with a pseudorandom cipher digit stream (keystream). In a stream cipher, each plaintext digit is encrypted one at a time with the corresponding digit of the keystream, to give a digit of the ciphertext stream.
+
+`C = P xor KS`
+
+`KS = key-scheduling-algo(K)` where `K` involves some secret key
+
 # Suggested reading order
 1. PRG
 2. PRF_PRP
-3. Choose your PRNG
+3. Choose your PRNG / stream cipher
