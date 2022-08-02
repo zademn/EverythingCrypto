@@ -6,9 +6,11 @@ Lattice based cryptography is one of the advanced topics in cryptography. Before
 - A good understanding of Abstract algebra (Rings, groups, fields, polynomials)
 - Visual memory might help
 
-In these notebooks I try to build up the lattice knowledge needed to build cryptosystems
+In these notebooks I try to build up the lattice knowledge needed to build cryptosystems.
 
-I numbered the order you should study them in
+I numbered the order you should study them in.
 
-Sadly, I had no time to write down reduction proofs but you'll find them in the resources / videos linked
+Sadly, I had no time to write down reduction proofs but you'll find them in the resources / videos linked.
+
+Good resource: https://cryptohack.gitbook.io/cryptobook/lattices/definitions
 
