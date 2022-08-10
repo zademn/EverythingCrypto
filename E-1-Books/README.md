@@ -17,6 +17,9 @@
 5. [Intensive introduction to cryptography](https://files.boazbarak.org/crypto/lnotes_book.pdf)
 - Fun
 
+6. [Modern Cryptanalysis](https://swenson.io/Modern%20Cryptanalysis%20v1.1%202022-01-23.pdf)
+
+
 ## Elliptic curves specific
 1. Rational Points on Elliptic curves - Silverman
 - Undergraduate 
